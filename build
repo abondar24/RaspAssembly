@@ -1,0 +1,5 @@
+dir=bin
+mkdir -p $dir
+
+as -o $dir/$1.o $1.s
+ld -o $dir/$1 $dir/$1.o

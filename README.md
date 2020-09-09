@@ -12,9 +12,10 @@ Set of ARM assembly demos for raspberry pi
 
 ## Build and Run
 ```yaml
+chmod +x build
 
-as -o <demo-name>.o <demo-name>.s
-ld -o <demo-name>   <demo-name.o>
+./build <demo-name>
 
+./bin/<demo-name>
 ```
 
