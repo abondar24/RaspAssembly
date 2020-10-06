@@ -1,6 +1,7 @@
 # RaspAssembly
 Set of ARM assembly demos for raspberry pi
 
+Based on book "Raspberry PI Assembly Language Programming"
 
 ## Demos
 
@@ -9,6 +10,8 @@ Set of ARM assembly demos for raspberry pi
 3. Addition Carry - add two big (64 bit) numbers with carry (output via echi $?) 
 4. Upper - convert a string to uppet case
 5. UpperFunc - upper realised via func(check upperfunc dir)
+6. Multiplication - demo mul instructions usage
+
 
 ## Build and Run
 Without make
