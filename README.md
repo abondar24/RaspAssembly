@@ -13,7 +13,7 @@ Based on book "Raspberry PI Assembly Language Programming"
 6. Multiplication - demo mul instructions usage (use make in mult dir)
 7. Matrix Mult - multiply two 3x3 matrixes using accumulation (use gccBuild script)
 8. Distance - calculate distance between two points (use make in dist dir)
-
+9. Fcomp - compare two floating point numbers(is 1.00 equal to sum of 100 cents) (use make in fcomp dir)
 
 ## Build and Run
 With build
