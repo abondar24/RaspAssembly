@@ -12,6 +12,8 @@ Based on book "Raspberry PI Assembly Language Programming"
 5. UpperFunc - upper realised via func(use make in upperfunc dir)
 6. Multiplication - demo mul instructions usage (use make in mult dir)
 7. Matrix Mult - multiply two 3x3 matrixes using accumulation (use gccBuild script)
+8. Distance - calculate distance between two points (use make in dist dir)
+
 
 ## Build and Run
 With build
